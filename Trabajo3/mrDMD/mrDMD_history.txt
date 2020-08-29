@@ -1,0 +1,1360 @@
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+{Cannot find an exact (case-sensitive) match for 'mrdmd'
+
+The closest match is: mrDMD in /home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD.m
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Identify_freq_videoRec', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/Identify_freq_videoRec.m', 11)" style="font-weight:bold">Identify_freq_videoRec</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/Identify_freq_videoRec.m',11,0)">line 11</a>)
+for i=1:size(mrdmd,2)
+} 
+mrDMD_VideoRecord_moodle
+
+cam =
+
+     3
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 20)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',20,0)">line 20</a>)
+} 
+Unrecognized function or variable 'L'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 58)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',58,0)">line 58</a>)
+for kk=1:L-1
+
+Unrecognized function or variable 'L'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 64)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',64,0)">line 64</a>)
+for kk=1:L-1
+
+mrDMD_VideoRecord_moodle
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 2)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',2,0)">line 2</a>)
+} 
+mrDMD_VideoRecord_moodle
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 2)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',2,0)">line 2</a>)
+} 
+mrDMD_VideoRecord_moodle
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 2)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',2,0)">line 2</a>)
+} 
+mrDMD_VideoRecord_moodle
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrDMD_VideoRecord_moodle', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m', 2)" style="font-weight:bold">mrDMD_VideoRecord_moodle</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/mrDMD_VideoRecord_moodle.m',2,0)">line 2</a>)
+} 
+mrDMD_VideoRecord_moodle
+
+cam =
+
+     3
+
+
+Identify_freq_videoRec
+
+L =
+
+     4
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -0.0003 + 0.0000i
+  -0.0116 + 0.0265i
+  -0.0116 - 0.0265i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -2.0826e-06
+
+
+z =
+
+     2
+
+
+A =
+
+  -0.0027 + 0.0000i
+  -0.0935 + 0.0000i
+  -0.1510 + 0.2351i
+  -0.1510 - 0.2351i
+
+
+z =
+
+     3
+
+
+A =
+
+  -0.0009 + 0.0000i
+  -0.0612 + 0.1426i
+  -0.0612 - 0.1426i
+
+
+z =
+
+     4
+
+
+A =
+
+  -0.0012 + 0.0000i
+  -0.1023 + 0.1264i
+  -0.1023 - 0.1264i
+
+
+z =
+
+     5
+
+
+A =
+
+  -0.0013 + 0.0000i
+  -0.0349 + 0.1356i
+  -0.0349 - 0.1356i
+
+
+z =
+
+     6
+
+
+A =
+
+  -0.0009 + 0.0000i
+  -0.0597 + 0.1451i
+  -0.0597 - 0.1451i
+
+
+z =
+
+     7
+
+
+A =
+
+  -0.0007 + 0.0000i
+  -0.1170 + 0.1171i
+  -0.1170 - 0.1171i
+
+
+z =
+
+     8
+
+
+A =
+
+  -0.0020 + 0.0000i
+  -0.0599 + 0.1302i
+  -0.0599 - 0.1302i
+
+
+z =
+
+     9
+
+
+A =
+
+  -0.0009 + 0.0000i
+  -0.0672 + 0.1466i
+  -0.0672 - 0.1466i
+
+
+z =
+
+    10
+
+
+A =
+
+  -0.0003 + 0.0000i
+  -0.1329 + 0.0951i
+  -0.1329 - 0.0951i
+
+
+z =
+
+    11
+
+
+A =
+
+  -0.0011 + 0.0000i
+  -0.0740 + 0.1352i
+  -0.0740 - 0.1352i
+
+
+z =
+
+    12
+
+
+A =
+
+  -0.0008 + 0.0000i
+  -0.0523 + 0.1713i
+  -0.0523 - 0.1713i
+
+
+z =
+
+    13
+
+
+A =
+
+   4.8898e-04
+
+
+z =
+
+    14
+
+
+A =
+
+  -0.0014 + 0.0000i
+  -0.0527 + 0.1733i
+  -0.0527 - 0.1733i
+
+
+z =
+
+    15
+
+
+A =
+
+  -0.0015 + 0.0000i
+  -0.0753 + 0.1406i
+  -0.0753 - 0.1406i
+
+
+z =
+
+    16
+
+
+A =
+
+  -0.0002 + 0.0000i
+   0.0003 + 0.1264i
+   0.0003 - 0.1264i
+
+
+z =
+
+    17
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0774 + 0.1803i
+  -0.0774 - 0.1803i
+
+
+z =
+
+    18
+
+
+A =
+
+  -0.0007 + 0.0000i
+  -0.0937 + 0.1662i
+  -0.0937 - 0.1662i
+
+
+z =
+
+    19
+
+
+A =
+
+  -0.0003 + 0.0000i
+   0.0041 + 0.1568i
+   0.0041 - 0.1568i
+
+
+z =
+
+    20
+
+
+A =
+
+  -0.0016 + 0.0000i
+  -0.0911 + 0.1775i
+  -0.0911 - 0.1775i
+
+
+z =
+
+    21
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0558 + 0.1269i
+  -0.0558 - 0.1269i
+
+
+z =
+
+    22
+
+
+A =
+
+  -0.0013 + 0.0000i
+  -0.0491 + 0.1159i
+  -0.0491 - 0.1159i
+
+
+z =
+
+    23
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0931 + 0.1772i
+  -0.0931 - 0.1772i
+
+
+z =
+
+    24
+
+
+A =
+
+  -0.0018 + 0.0000i
+  -0.0783 + 0.1241i
+  -0.0783 - 0.1241i
+
+
+z =
+
+    25
+
+
+A =
+
+  -0.0016 + 0.0000i
+  -0.0569 + 0.1249i
+  -0.0569 - 0.1249i
+
+
+z =
+
+    26
+
+
+A =
+
+  -0.0015 + 0.0000i
+  -0.0971 + 0.1786i
+  -0.0971 - 0.1786i
+
+
+z =
+
+    27
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0892 + 0.1181i
+  -0.0892 - 0.1181i
+
+
+z =
+
+    28
+
+
+A =
+
+  -0.0012 + 0.0000i
+  -0.0654 + 0.1318i
+  -0.0654 - 0.1318i
+
+
+z =
+
+    29
+
+
+A =
+
+  -0.0014 + 0.0000i
+  -0.0929 + 0.1699i
+  -0.0929 - 0.1699i
+
+
+z =
+
+    30
+
+
+A =
+
+  -0.0005 + 0.0000i
+  -0.1220 + 0.1081i
+  -0.1220 - 0.1081i
+
+
+z =
+
+    31
+
+
+A =
+
+  -0.0017 + 0.0000i
+  -0.1284 + 0.1696i
+  -0.1284 - 0.1696i
+
+
+z =
+
+    32
+
+
+A =
+
+  -0.0011 + 0.0000i
+  -0.0627 + 0.1270i
+  -0.0627 - 0.1270i
+
+
+z =
+
+    33
+
+{Dot indexing is not supported for variables of this type.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Identify_freq_videoRec', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/Identify_freq_videoRec.m', 13)" style="font-weight:bold">Identify_freq_videoRec</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/Identify_freq_videoRec.m',13,0)">line 13</a>)
+    A=mrdmd{L,z}.omega
+} 
+Identify_freq_videoRec
+
+L =
+
+     5
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+    0.0330
+    0.0009
+   -0.0443
+
+
+z =
+
+     2
+
+
+A =
+
+  -0.0006 + 0.0000i
+  -0.0464 + 0.0722i
+  -0.0464 - 0.0722i
+
+
+z =
+
+     3
+
+
+A =
+
+  -0.0007 + 0.0000i
+  -0.0386 + 0.0607i
+  -0.0386 - 0.0607i
+
+
+z =
+
+     4
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0061 + 0.0571i
+  -0.0061 - 0.0571i
+
+
+z =
+
+     5
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0582 + 0.0612i
+  -0.0582 - 0.0612i
+
+
+z =
+
+     6
+
+
+A =
+
+  -0.0005 + 0.0000i
+  -0.0474 + 0.0665i
+  -0.0474 - 0.0665i
+
+
+z =
+
+     7
+
+
+A =
+
+  -0.0006 + 0.0000i
+  -0.0213 + 0.0768i
+  -0.0213 - 0.0768i
+
+
+z =
+
+     8
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0002 + 0.1262i
+  -0.0002 - 0.1262i
+  -0.1200 + 0.0000i
+
+
+z =
+
+     9
+
+
+A =
+
+  -0.0005 + 0.0000i
+  -0.0420 + 0.0553i
+  -0.0420 - 0.0553i
+
+
+z =
+
+    10
+
+
+A =
+
+  -0.0017 + 0.0000i
+  -0.0766 + 0.0483i
+  -0.0766 - 0.0483i
+
+
+z =
+
+    11
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0030 + 0.0780i
+  -0.0030 - 0.0780i
+
+
+z =
+
+    12
+
+
+A =
+
+  -0.0016 + 0.0000i
+  -0.0514 + 0.1324i
+  -0.0514 - 0.1324i
+  -0.0757 + 0.0605i
+  -0.0757 - 0.0605i
+
+
+z =
+
+    13
+
+
+A =
+
+  -0.0018 + 0.0000i
+  -0.0620 + 0.0310i
+  -0.0620 - 0.0310i
+  -0.0348 + 0.1339i
+  -0.0348 - 0.1339i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -0.0000 + 0.0000i
+  -0.0027 + 0.0225i
+  -0.0027 - 0.0225i
+  -0.0216 + 0.0000i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -0.0000 + 0.0000i
+  -0.0027 + 0.0225i
+  -0.0027 - 0.0225i
+  -0.0216 + 0.0000i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -0.0003 + 0.0000i
+  -0.0116 + 0.0265i
+  -0.0116 - 0.0265i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+    0.0330
+    0.0009
+   -0.0443
+
+
+z =
+
+     2
+
+
+A =
+
+  -0.0006 + 0.0000i
+  -0.0464 + 0.0722i
+  -0.0464 - 0.0722i
+
+
+z =
+
+     3
+
+
+A =
+
+  -0.0007 + 0.0000i
+  -0.0386 + 0.0607i
+  -0.0386 - 0.0607i
+
+
+z =
+
+     4
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0061 + 0.0571i
+  -0.0061 - 0.0571i
+
+
+z =
+
+     5
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0582 + 0.0612i
+  -0.0582 - 0.0612i
+
+
+z =
+
+     6
+
+
+A =
+
+  -0.0005 + 0.0000i
+  -0.0474 + 0.0665i
+  -0.0474 - 0.0665i
+
+
+z =
+
+     7
+
+
+A =
+
+  -0.0006 + 0.0000i
+  -0.0213 + 0.0768i
+  -0.0213 - 0.0768i
+
+
+z =
+
+     8
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0002 + 0.1262i
+  -0.0002 - 0.1262i
+  -0.1200 + 0.0000i
+
+
+z =
+
+     9
+
+
+A =
+
+  -0.0005 + 0.0000i
+  -0.0420 + 0.0553i
+  -0.0420 - 0.0553i
+
+
+z =
+
+    10
+
+
+A =
+
+  -0.0017 + 0.0000i
+  -0.0766 + 0.0483i
+  -0.0766 - 0.0483i
+
+
+z =
+
+    11
+
+
+A =
+
+  -0.0002 + 0.0000i
+  -0.0030 + 0.0780i
+  -0.0030 - 0.0780i
+
+
+z =
+
+    12
+
+
+A =
+
+  -0.0016 + 0.0000i
+  -0.0514 + 0.1324i
+  -0.0514 - 0.1324i
+  -0.0757 + 0.0605i
+  -0.0757 - 0.0605i
+
+
+z =
+
+    13
+
+
+A =
+
+  -0.0018 + 0.0000i
+  -0.0620 + 0.0310i
+  -0.0620 - 0.0310i
+  -0.0348 + 0.1339i
+  -0.0348 - 0.1339i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -2.0826e-06
+
+
+z =
+
+     2
+
+
+A =
+
+  -0.0027 + 0.0000i
+  -0.0935 + 0.0000i
+  -0.1510 + 0.2351i
+  -0.1510 - 0.2351i
+
+
+z =
+
+     3
+
+
+A =
+
+  -0.0009 + 0.0000i
+  -0.0612 + 0.1426i
+  -0.0612 - 0.1426i
+
+
+z =
+
+     4
+
+
+A =
+
+  -0.0012 + 0.0000i
+  -0.1023 + 0.1264i
+  -0.1023 - 0.1264i
+
+
+z =
+
+     5
+
+
+A =
+
+  -0.0013 + 0.0000i
+  -0.0349 + 0.1356i
+  -0.0349 - 0.1356i
+
+
+z =
+
+     6
+
+
+A =
+
+  -0.0009 + 0.0000i
+  -0.0597 + 0.1451i
+  -0.0597 - 0.1451i
+
+
+z =
+
+     7
+
+
+A =
+
+  -0.0007 + 0.0000i
+  -0.1170 + 0.1171i
+  -0.1170 - 0.1171i
+
+
+z =
+
+     8
+
+
+A =
+
+  -0.0020 + 0.0000i
+  -0.0599 + 0.1302i
+  -0.0599 - 0.1302i
+
+
+z =
+
+     9
+
+
+A =
+
+  -0.0009 + 0.0000i
+  -0.0672 + 0.1466i
+  -0.0672 - 0.1466i
+
+
+z =
+
+    10
+
+
+A =
+
+  -0.0003 + 0.0000i
+  -0.1329 + 0.0951i
+  -0.1329 - 0.0951i
+
+
+z =
+
+    11
+
+
+A =
+
+  -0.0011 + 0.0000i
+  -0.0740 + 0.1352i
+  -0.0740 - 0.1352i
+
+
+z =
+
+    12
+
+
+A =
+
+  -0.0008 + 0.0000i
+  -0.0523 + 0.1713i
+  -0.0523 - 0.1713i
+
+
+z =
+
+    13
+
+
+A =
+
+   4.8898e-04
+
+
+z =
+
+    14
+
+
+A =
+
+  -0.0014 + 0.0000i
+  -0.0527 + 0.1733i
+  -0.0527 - 0.1733i
+
+
+z =
+
+    15
+
+
+A =
+
+  -0.0015 + 0.0000i
+  -0.0753 + 0.1406i
+  -0.0753 - 0.1406i
+
+
+z =
+
+    16
+
+
+A =
+
+  -0.0002 + 0.0000i
+   0.0003 + 0.1264i
+   0.0003 - 0.1264i
+
+
+z =
+
+    17
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0774 + 0.1803i
+  -0.0774 - 0.1803i
+
+
+z =
+
+    18
+
+
+A =
+
+  -0.0007 + 0.0000i
+  -0.0937 + 0.1662i
+  -0.0937 - 0.1662i
+
+
+z =
+
+    19
+
+
+A =
+
+  -0.0003 + 0.0000i
+   0.0041 + 0.1568i
+   0.0041 - 0.1568i
+
+
+z =
+
+    20
+
+
+A =
+
+  -0.0016 + 0.0000i
+  -0.0911 + 0.1775i
+  -0.0911 - 0.1775i
+
+
+z =
+
+    21
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0558 + 0.1269i
+  -0.0558 - 0.1269i
+
+
+z =
+
+    22
+
+
+A =
+
+  -0.0013 + 0.0000i
+  -0.0491 + 0.1159i
+  -0.0491 - 0.1159i
+
+
+z =
+
+    23
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0931 + 0.1772i
+  -0.0931 - 0.1772i
+
+
+z =
+
+    24
+
+
+A =
+
+  -0.0018 + 0.0000i
+  -0.0783 + 0.1241i
+  -0.0783 - 0.1241i
+
+
+z =
+
+    25
+
+
+A =
+
+  -0.0016 + 0.0000i
+  -0.0569 + 0.1249i
+  -0.0569 - 0.1249i
+
+
+z =
+
+    26
+
+
+A =
+
+  -0.0015 + 0.0000i
+  -0.0971 + 0.1786i
+  -0.0971 - 0.1786i
+
+
+z =
+
+    27
+
+
+A =
+
+  -0.0010 + 0.0000i
+  -0.0892 + 0.1181i
+  -0.0892 - 0.1181i
+
+
+z =
+
+    28
+
+
+A =
+
+  -0.0012 + 0.0000i
+  -0.0654 + 0.1318i
+  -0.0654 - 0.1318i
+
+
+z =
+
+    29
+
+
+A =
+
+  -0.0014 + 0.0000i
+  -0.0929 + 0.1699i
+  -0.0929 - 0.1699i
+
+
+z =
+
+    30
+
+
+A =
+
+  -0.0005 + 0.0000i
+  -0.1220 + 0.1081i
+  -0.1220 - 0.1081i
+
+
+z =
+
+    31
+
+
+A =
+
+  -0.0017 + 0.0000i
+  -0.1284 + 0.1696i
+  -0.1284 - 0.1696i
+
+
+z =
+
+    32
+
+
+A =
+
+  -0.0011 + 0.0000i
+  -0.0627 + 0.1270i
+  -0.0627 - 0.1270i
+
+
+z =
+
+    33
+
+{Dot indexing is not supported for variables of this type.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Identify_freq_videoRec', '/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/Identify_freq_videoRec.m', 13)" style="font-weight:bold">Identify_freq_videoRec</a> (<a href="matlab: opentoline('/home/alberto/Descargas/TMR_trabajo/Trabajo3/mrDMD/Identify_freq_videoRec.m',13,0)">line 13</a>)
+    A=mrdmd{L,z}.omega
+} 
+Identify_freq_videoRec
+
+L =
+
+     3
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+A =
+
+  -0.0000 + 0.0000i
+  -0.0027 + 0.0225i
+  -0.0027 - 0.0225i
+  -0.0216 + 0.0000i
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
+
+err =
+
+    0.0100
+
+
+freq =
+
+    0.0239
+
+
+z =
+
+     1
+
